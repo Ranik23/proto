@@ -1,4 +1,4 @@
-module protos
+module github.com/Ranik23/proto
 
 go 1.22.5
 
